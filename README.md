@@ -1,3 +1,3 @@
-# tan-template
+=======
 
-My tanstack start template
+# Omars tanstack start template for personal projects
